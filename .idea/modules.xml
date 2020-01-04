@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../bocai3/bocai3.iml" filepath="$PROJECT_DIR$/../bocai3/bocai3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day16.iml" filepath="$PROJECT_DIR$/../day16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day17/day17.iml" filepath="$PROJECT_DIR$/../day17/day17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../house09/house09.iml" filepath="$PROJECT_DIR$/../house09/house09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../house10/house10.iml" filepath="$PROJECT_DIR$/../house10/house10.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bocai3:war">
+    <output-path>$PROJECT_DIR$/../bocai3/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>bocai3</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="bocai3-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="bocai3:war exploded" />
+    </root>
+  </artifact>
+</component>

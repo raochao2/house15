@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="house09" />
+        <module name="house10" />
+        <module name="bocai3" />
+        <module name="day17" />
+        <module name="day16" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bocai" target="1.8" />
+      <module name="bocai1" target="1.7" />
+      <module name="bocai3" target="1.8" />
+      <module name="day16" target="1.7" />
+      <module name="day17" target="1.8" />
+      <module name="house09" target="1.5" />
+      <module name="house10" target="1.5" />
+      <module name="house11" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
