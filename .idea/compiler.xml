@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="house09" />
+        <module name="house15" />
         <module name="house10" />
-        <module name="bocai3" />
-        <module name="day17" />
         <module name="day16" />
+        <module name="day17" />
+        <module name="bocai3" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -22,6 +22,7 @@
       <module name="house09" target="1.5" />
       <module name="house10" target="1.5" />
       <module name="house11" target="1.7" />
+      <module name="house15" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
